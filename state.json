@@ -2,7 +2,7 @@
   "incidents": {
     "slm0mhv6r1pf": {
       "name": "Elevated errors on Claude Opus 4.8",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/b1vb5315yt9v",
       "seenUpdateIds": [
