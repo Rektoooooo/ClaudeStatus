@@ -187,11 +187,14 @@ async function run() {
       if (seenSet.has(update.id)) continue;
 
       if (update.status === 'resolved' && known.status !== 'resolved') {
-        await sendDiscord(buildEmbed(incident, 'resolved', 'resolved', 'Resolved'));
+        await sendDiscord(buildEmbed(incident, 'resolved', 'resolved', 'Resolved'), {
+          ping: true,
+        });
         known.status = 'resolved';
       } else if (update.status !== 'resolved') {
         await sendDiscord(
           buildEmbed(incident, 'update', update.status, formatStatus(update.status)),
+          { ping: true },
         );
       }
 
@@ -210,7 +213,7 @@ async function run() {
   // --- Incidents that vanished from the feed = resolved ---
   for (const [id, known] of Object.entries(state.incidents)) {
     if (!activeIds.has(id) && known.status !== 'resolved') {
-      await sendDiscord(buildResolvedEmbedFromState(known));
+      await sendDiscord(buildResolvedEmbedFromState(known), { ping: true });
       known.status = 'resolved';
       changed = true;
     }
