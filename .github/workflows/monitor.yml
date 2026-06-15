@@ -2,7 +2,9 @@ name: Claude Status Monitor
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    # Runs every 5 minutes (UTC). GitHub cron is best-effort and may drift/skip
+    # during high load; offset from :00 to dodge top-of-hour congestion.
+    - cron: '2-59/5 * * * *'
   workflow_dispatch: # allows manual trigger from the GitHub UI
 
 permissions:
