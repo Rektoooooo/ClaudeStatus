@@ -1,0 +1,23 @@
+{
+  "incidents": {
+    "slm0mhv6r1pf": {
+      "name": "Elevated errors on Claude Opus 4.8",
+      "status": "monitoring",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/b1vb5315yt9v",
+      "seenUpdateIds": [
+        "2rb71j916669",
+        "2w1qd9ljb3lb"
+      ]
+    },
+    "s9w82lp9dcn9": {
+      "name": "We’ve suspended access to Claude Mythos 5 and Claude Fable 5",
+      "status": "monitoring",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/kqx0j625mrgv",
+      "seenUpdateIds": [
+        "r4csk36xp1yq"
+      ]
+    }
+  }
+}

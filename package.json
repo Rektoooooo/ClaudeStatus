@@ -1,0 +1,10 @@
+{
+  "name": "claude-status-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Posts Claude status incidents to a Discord channel via webhook",
+  "scripts": {
+    "start": "node monitor.js",
+    "seed": "SEED=1 node monitor.js"
+  }
+}
