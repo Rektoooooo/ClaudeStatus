@@ -116,16 +116,29 @@ function buildResolvedEmbedFromState(known) {
   };
 }
 
-async function sendDiscord(embed, { ping = false } = {}) {
+// One-line summary that drives the phone push-notification preview.
+// `name` is the incident name; statusKey decides the wording/emoji.
+function summaryLine(name, statusKey) {
+  const sEmoji = STATUS_EMOJI[statusKey] ?? '🔴';
+  if (statusKey === 'resolved') return `${sEmoji} Resolved: ${name}`;
+  if (statusKey === 'monitoring') return `${sEmoji} Monitoring · fix deployed: ${name}`;
+  return `${sEmoji} ${formatStatus(statusKey)}: ${name}`;
+}
+
+async function sendDiscord(embed, { ping = false, summary = '' } = {}) {
   if (SEED) return; // seeding mode never posts
   const body = {
     username: 'Claude Status',
     embeds: [embed],
   };
+  // Status summary first (shows in the push preview), @everyone on the last line.
+  const lines = [];
+  if (summary) lines.push(summary);
   if (ping) {
-    body.content = '@everyone';
+    lines.push('@everyone');
     body.allowed_mentions = { parse: ['everyone'] };
   }
+  if (lines.length) body.content = lines.join('\n');
   const res = await fetch(WEBHOOK, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
@@ -173,7 +186,7 @@ async function run() {
       } else {
         await sendDiscord(
           buildEmbed(incident, 'new', incident.status, formatStatus(incident.status)),
-          { ping: true },
+          { ping: true, summary: summaryLine(incident.name, incident.status) },
         );
         record(state, incident);
       }
@@ -189,12 +202,13 @@ async function run() {
       if (update.status === 'resolved' && known.status !== 'resolved') {
         await sendDiscord(buildEmbed(incident, 'resolved', 'resolved', 'Resolved'), {
           ping: true,
+          summary: summaryLine(incident.name, 'resolved'),
         });
         known.status = 'resolved';
       } else if (update.status !== 'resolved') {
         await sendDiscord(
           buildEmbed(incident, 'update', update.status, formatStatus(update.status)),
-          { ping: true },
+          { ping: true, summary: summaryLine(incident.name, update.status) },
         );
       }
 
@@ -213,7 +227,10 @@ async function run() {
   // --- Incidents that vanished from the feed = resolved ---
   for (const [id, known] of Object.entries(state.incidents)) {
     if (!activeIds.has(id) && known.status !== 'resolved') {
-      await sendDiscord(buildResolvedEmbedFromState(known), { ping: true });
+      await sendDiscord(buildResolvedEmbedFromState(known), {
+        ping: true,
+        summary: summaryLine(known.name, 'resolved'),
+      });
       known.status = 'resolved';
       changed = true;
     }
