@@ -33,7 +33,7 @@
     },
     "41395mspl1rf": {
       "name": "Elevated errors for Claude Opus 4.8",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/tslzsk6f4hlf",
       "seenUpdateIds": [
