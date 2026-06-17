@@ -49,6 +49,15 @@
       "seenUpdateIds": [
         "zjkd97h7qr08"
       ]
+    },
+    "s107yx224p9r": {
+      "name": "Elevated errors for Claude Opus 4.8",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/jhq0vtzfn0yv",
+      "seenUpdateIds": [
+        "mxj9lx168gx1"
+      ]
     }
   }
 }
