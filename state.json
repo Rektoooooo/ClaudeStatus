@@ -72,7 +72,7 @@
     },
     "jbhf20wjmzrf": {
       "name": "Elevated error rate across multiple models",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "critical",
       "shortlink": "https://stspg.io/kx1ygc7qfvx1",
       "seenUpdateIds": [
