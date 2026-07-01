@@ -12,7 +12,7 @@
     },
     "s9w82lp9dcn9": {
       "name": "We’ve suspended access to Claude Mythos 5 and Claude Fable 5",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "critical",
       "shortlink": "https://stspg.io/kqx0j625mrgv",
       "seenUpdateIds": [
