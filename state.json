@@ -89,6 +89,15 @@
       "seenUpdateIds": [
         "mndhgw0pm81g"
       ]
+    },
+    "d23j8s7t8rx2": {
+      "name": "Claude Tag seeing elevated GitHub operation failures",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/0l8p9n8ky411",
+      "seenUpdateIds": [
+        "rtjs0zvgp4lb"
+      ]
     }
   }
 }
