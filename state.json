@@ -98,6 +98,16 @@
       "seenUpdateIds": [
         "rtjs0zvgp4lb"
       ]
+    },
+    "l9zyw879cyd6": {
+      "name": "Elevated errors for some models",
+      "status": "identified",
+      "impact": "major",
+      "shortlink": "https://stspg.io/g0yp6phqpdrn",
+      "seenUpdateIds": [
+        "7dbf1p79xvk6",
+        "rl7p9wkkkc8d"
+      ]
     }
   }
 }
