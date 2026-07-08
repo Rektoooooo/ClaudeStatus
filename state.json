@@ -118,7 +118,19 @@
       "shortlink": "https://stspg.io/kt72q7m6rz9c",
       "seenUpdateIds": [
         "d4871zq0blt2",
-        "5dmplxk47p8j"
+        "5dmplxk47p8j",
+        "1hg0w363msr2",
+        "jbgrhj7jslj8"
+      ]
+    },
+    "rvb96c56gn6k": {
+      "name": "Degraded performance for Claude Code on the web, Cowork Remote, Claude Tag, and Claude Code Review sessions",
+      "status": "monitoring",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/th3djdzw5lsy",
+      "seenUpdateIds": [
+        "vqc2fhtnzwbf",
+        "v9hpxh732n9y"
       ]
     }
   }
