@@ -135,7 +135,7 @@
     },
     "09g0fh2l7qbb": {
       "name": "Elevated errors on multiple models",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/tznbd1r92fwk",
       "seenUpdateIds": [
