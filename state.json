@@ -153,11 +153,12 @@
     },
     "kqbd7wm6hnnr": {
       "name": "Elevated errors for multiple models",
-      "status": "investigating",
+      "status": "identified",
       "impact": "major",
       "shortlink": "https://stspg.io/zhv1t1h0dbby",
       "seenUpdateIds": [
-        "1mwkykmv0mmw"
+        "1mwkykmv0mmw",
+        "9rt484mqvs3q"
       ]
     }
   }
