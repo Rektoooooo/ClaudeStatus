@@ -144,7 +144,7 @@
     },
     "vjfp60ngq2zj": {
       "name": "Elevated errors for Claude Opus 4.7",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/3vvl4w8559r5",
       "seenUpdateIds": [
