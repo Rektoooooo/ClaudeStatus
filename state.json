@@ -163,6 +163,15 @@
         "zs9yyzhkgvzb",
         "fj3xv06j6wtn"
       ]
+    },
+    "7gpjd8n56rlq": {
+      "name": "Elevated errors on Sonnet 5 and Haiku 4.5",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/p0rgrvqnx02s",
+      "seenUpdateIds": [
+        "v2ynbx6hnnp7"
+      ]
     }
   }
 }
