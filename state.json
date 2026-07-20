@@ -188,7 +188,7 @@
     },
     "hlt0yqp4lkww": {
       "name": "Elevated error rates for Opus 4.5",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/lzrpkz4y2ry9",
       "seenUpdateIds": [
@@ -205,6 +205,24 @@
       "shortlink": "https://stspg.io/rgq3dljydbcm",
       "seenUpdateIds": [
         "gqzkvc3x6j8n"
+      ]
+    },
+    "4n0mmv2v41rf": {
+      "name": "Elevated errors for Claude Opus 4.8",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/b4rjxhq1j4nb",
+      "seenUpdateIds": [
+        "7rcy0f338m3k"
+      ]
+    },
+    "s39rkbp2xhpd": {
+      "name": "Elevated errors on Haiku 4.5",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/ths0tjh6ntg6",
+      "seenUpdateIds": [
+        "9njp2xgjs73s"
       ]
     }
   }
