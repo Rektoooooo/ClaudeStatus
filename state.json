@@ -188,13 +188,14 @@
     },
     "hlt0yqp4lkww": {
       "name": "Elevated error rates for Opus 4.5",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "minor",
       "shortlink": "https://stspg.io/lzrpkz4y2ry9",
       "seenUpdateIds": [
         "p30gc4fdm23c",
         "3rn0tjmq9rr9",
-        "1z6drsftncl4"
+        "1z6drsftncl4",
+        "cw4jzhq4kmm1"
       ]
     },
     "tnypgb2jbqnq": {
