@@ -227,7 +227,7 @@
     },
     "v35b71rthzhp": {
       "name": "Elevated errors on Haiku 4.5",
-      "status": "identified",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/ng8pvt69fcnf",
       "seenUpdateIds": [
