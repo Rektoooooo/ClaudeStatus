@@ -233,6 +233,18 @@
       "seenUpdateIds": [
         "j06gglvzk4qg"
       ]
+    },
+    "lw0sb1srtznh": {
+      "name": "Elevated errors across Fable 5",
+      "status": "monitoring",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/cqjf2860m4yy",
+      "seenUpdateIds": [
+        "xhkgpyjqyqmx",
+        "w9y6600ls3gs",
+        "c8nsmm5yst28",
+        "yhchmrxwk5xh"
+      ]
     }
   }
 }
