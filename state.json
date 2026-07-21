@@ -248,13 +248,14 @@
     },
     "j0y67nj6w93z": {
       "name": "Elevated errors on Haiku 4.5",
-      "status": "monitoring",
+      "status": "identified",
       "impact": "minor",
       "shortlink": "https://stspg.io/zbk8jlprqymy",
       "seenUpdateIds": [
         "4jxcl4zdq75p",
         "d3yvs93cw3vh",
-        "pfcbw4069hd3"
+        "pfcbw4069hd3",
+        "mpxs5qdmffb9"
       ]
     }
   }
