@@ -260,7 +260,7 @@
     },
     "vcynh9cf33xp": {
       "name": "Elevated errors on several models",
-      "status": "identified",
+      "status": "resolved",
       "impact": "critical",
       "shortlink": "https://stspg.io/74sqh6d7f9vq",
       "seenUpdateIds": [
