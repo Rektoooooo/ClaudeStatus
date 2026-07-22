@@ -279,6 +279,15 @@
         "hs10q45pb7gw",
         "s0cjyv9bfsfl"
       ]
+    },
+    "yc7mr2gvl914": {
+      "name": "Microsoft Office add-in availability",
+      "status": "identified",
+      "impact": "none",
+      "shortlink": "https://stspg.io/62bq6fn8w887",
+      "seenUpdateIds": [
+        "4pk5w03q44gc"
+      ]
     }
   }
 }
