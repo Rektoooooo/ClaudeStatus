@@ -270,7 +270,7 @@
     },
     "f7w8qkd8z57f": {
       "name": "Elevated errors on Opus 4.8 and Haiku 4.5",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/5fhdrrh8wbq1",
       "seenUpdateIds": [
