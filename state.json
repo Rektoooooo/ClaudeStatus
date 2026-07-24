@@ -282,7 +282,7 @@
     },
     "yc7mr2gvl914": {
       "name": "Microsoft Office add-in availability",
-      "status": "identified",
+      "status": "resolved",
       "impact": "none",
       "shortlink": "https://stspg.io/62bq6fn8w887",
       "seenUpdateIds": [
