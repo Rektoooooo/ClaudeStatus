@@ -291,7 +291,7 @@
     },
     "f1q2wvw4qj4j": {
       "name": "Elevated errors for Mythos 5, Fable 5, Opus 5 and Claude Haiku 4.5",
-      "status": "identified",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/zkm687kx885m",
       "seenUpdateIds": [
