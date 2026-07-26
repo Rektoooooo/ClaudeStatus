@@ -298,6 +298,15 @@
         "sc3crgr5vkm5",
         "yfq1ldw442g1"
       ]
+    },
+    "zftg3gqkmv18": {
+      "name": "Elevated errors for Opus 5",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/jrz1yk46f9xp",
+      "seenUpdateIds": [
+        "g9fbzqlcyz73"
+      ]
     }
   }
 }
