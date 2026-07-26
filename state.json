@@ -301,7 +301,7 @@
     },
     "zftg3gqkmv18": {
       "name": "Elevated errors for Opus 5",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/jrz1yk46f9xp",
       "seenUpdateIds": [
