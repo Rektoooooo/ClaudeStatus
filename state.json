@@ -321,7 +321,7 @@
     },
     "q2kg8n613kr3": {
       "name": "Elevated errors across all models",
-      "status": "identified",
+      "status": "resolved",
       "impact": "critical",
       "shortlink": "https://stspg.io/p7pqqb00414c",
       "seenUpdateIds": [
