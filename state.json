@@ -351,6 +351,15 @@
       "seenUpdateIds": [
         "p9rgcyq2dyvw"
       ]
+    },
+    "bdr3fq2rkchr": {
+      "name": "Elevated errors across many models",
+      "status": "investigating",
+      "impact": "major",
+      "shortlink": "https://stspg.io/smnf386prrtx",
+      "seenUpdateIds": [
+        "mb004dcxh1hj"
+      ]
     }
   }
 }
