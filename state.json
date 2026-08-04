@@ -354,7 +354,7 @@
     },
     "bdr3fq2rkchr": {
       "name": "Elevated errors across many models",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/smnf386prrtx",
       "seenUpdateIds": [
