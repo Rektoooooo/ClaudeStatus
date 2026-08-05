@@ -363,12 +363,13 @@
     },
     "f6gkkq6txl7z": {
       "name": "Degraded performance of multiple models",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "minor",
       "shortlink": "https://stspg.io/s2ysk4zxbyy3",
       "seenUpdateIds": [
         "7l6pk93k95q1",
-        "71wxpw067nx2"
+        "71wxpw067nx2",
+        "yszb0sst2qns"
       ]
     }
   }
