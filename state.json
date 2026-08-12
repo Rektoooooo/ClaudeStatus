@@ -374,7 +374,7 @@
     },
     "rk6gkg2gwfny": {
       "name": "Degraded performance for multiple models",
-      "status": "identified",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/kxwqzpnz52t1",
       "seenUpdateIds": [
