@@ -399,6 +399,16 @@
       "seenUpdateIds": [
         "vm36rp7j8470"
       ]
+    },
+    "005ym4vzrq2w": {
+      "name": "Service disruption on Claude services",
+      "status": "identified",
+      "impact": "major",
+      "shortlink": "https://stspg.io/wlcwm73lh5vb",
+      "seenUpdateIds": [
+        "955fwmk3cfk3",
+        "b24fdp57w265"
+      ]
     }
   }
 }
