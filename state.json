@@ -402,7 +402,7 @@
     },
     "005ym4vzrq2w": {
       "name": "Service disruption on Claude services",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/wlcwm73lh5vb",
       "seenUpdateIds": [
