@@ -393,7 +393,7 @@
     },
     "whnd2z49x3xf": {
       "name": "Service disruption on Claude Code on the web and related services",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/7b3qnvqbdf60",
       "seenUpdateIds": [
