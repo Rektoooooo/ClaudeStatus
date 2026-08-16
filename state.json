@@ -410,6 +410,26 @@
         "b24fdp57w265",
         "9jmrx4740p0s"
       ]
+    },
+    "qt14v73myyy5": {
+      "name": "Service disruption on Claude services",
+      "status": "monitoring",
+      "impact": "critical",
+      "shortlink": "https://stspg.io/cc6kmwrqhzmh",
+      "seenUpdateIds": [
+        "2v4vffv8xk2w",
+        "1gl94l113kd7",
+        "4mynwszw5syj"
+      ]
+    },
+    "qzfvhfg85r6t": {
+      "name": "Service disruption on Claude services",
+      "status": "investigating",
+      "impact": "major",
+      "shortlink": "https://stspg.io/j00nrtp2ckrf",
+      "seenUpdateIds": [
+        "718xhjvlsyfj"
+      ]
     }
   }
 }
