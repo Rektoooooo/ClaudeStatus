@@ -413,7 +413,7 @@
     },
     "qt14v73myyy5": {
       "name": "Service disruption on Claude services",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "critical",
       "shortlink": "https://stspg.io/cc6kmwrqhzmh",
       "seenUpdateIds": [
@@ -424,7 +424,7 @@
     },
     "qzfvhfg85r6t": {
       "name": "Service disruption on Claude services",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/j00nrtp2ckrf",
       "seenUpdateIds": [
