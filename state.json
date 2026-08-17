@@ -430,6 +430,15 @@
       "seenUpdateIds": [
         "718xhjvlsyfj"
       ]
+    },
+    "zhk4v3yv1lsf": {
+      "name": "Degraded performance for Claude Opus 5",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/dw9p8s0wg6hh",
+      "seenUpdateIds": [
+        "w6pf2lykmcc9"
+      ]
     }
   }
 }
