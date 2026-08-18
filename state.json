@@ -441,6 +441,16 @@
         "1yg0qlml7c1k",
         "95mc47bhcy52"
       ]
+    },
+    "q7txxvbsftgq": {
+      "name": "Degraded performance for multiple models",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/tcsfmtc03xgm",
+      "seenUpdateIds": [
+        "2svsssz7gf2w",
+        "t4jct2nkhhs7"
+      ]
     }
   }
 }
