@@ -456,7 +456,7 @@
     },
     "hkcw95k7r0f4": {
       "name": "Degraded performance for Claude Opus 5 and Claude Haiku 4.5",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/zg9tfmjj1th2",
       "seenUpdateIds": [
