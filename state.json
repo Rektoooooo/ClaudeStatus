@@ -463,6 +463,15 @@
         "2b1gwc3bx5zw",
         "0nj9dkhd6rlr"
       ]
+    },
+    "6xskhw7rn4tf": {
+      "name": "Elevated errors on Google connectors",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/lmcgl9dpjxk0",
+      "seenUpdateIds": [
+        "0tnghbg0869n"
+      ]
     }
   }
 }
