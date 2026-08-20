@@ -475,7 +475,7 @@
     },
     "c0ncxxm2wd9r": {
       "name": "Elevated errors on requests to multiple models",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/w7yghz6hfr72",
       "seenUpdateIds": [
