@@ -481,6 +481,16 @@
       "seenUpdateIds": [
         "f86d9bctr402"
       ]
+    },
+    "vgz5psbjmt1h": {
+      "name": "Elevated errors for multiple models",
+      "status": "identified",
+      "impact": "major",
+      "shortlink": "https://stspg.io/5kzdprb1xsbx",
+      "seenUpdateIds": [
+        "kgq4vvt8gg91",
+        "9k6c4141ct07"
+      ]
     }
   }
 }
