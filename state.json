@@ -493,6 +493,16 @@
         "dkslxzzdg0sj",
         "94lrsp4d4j5f"
       ]
+    },
+    "vr9tpk8w7zr8": {
+      "name": "Elevated errors on Claude Code and Claude Cowork",
+      "status": "monitoring",
+      "impact": "major",
+      "shortlink": "https://stspg.io/6rfby2z7stc2",
+      "seenUpdateIds": [
+        "8346xnq7qy0g",
+        "cg9nyp880ysm"
+      ]
     }
   }
 }
