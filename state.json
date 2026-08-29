@@ -496,7 +496,7 @@
     },
     "vr9tpk8w7zr8": {
       "name": "Elevated errors on Claude Code and Claude Cowork",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/6rfby2z7stc2",
       "seenUpdateIds": [
