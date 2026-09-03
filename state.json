@@ -515,7 +515,7 @@
     },
     "461yvfrzpwtt": {
       "name": "Elevated errors for multiple models",
-      "status": "identified",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/9xz4hhmd1jzn",
       "seenUpdateIds": [
