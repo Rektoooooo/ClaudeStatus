@@ -523,6 +523,15 @@
         "7y729880v7t8",
         "pq9z8rkyw0t6"
       ]
+    },
+    "r1pqn1kb4hvk": {
+      "name": "Degraded functionality for Claude Cowork on Windows",
+      "status": "identified",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/5yp3rhhztm30",
+      "seenUpdateIds": [
+        "66mdw18dd63d"
+      ]
     }
   }
 }
