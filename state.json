@@ -535,7 +535,7 @@
     },
     "2pt83vlkk7x7": {
       "name": "Elevated latency on the Claude API for some users",
-      "status": "identified",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/hfs7749ykl14",
       "seenUpdateIds": [
