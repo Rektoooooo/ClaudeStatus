@@ -541,6 +541,16 @@
       "seenUpdateIds": [
         "lbz582b948bq"
       ]
+    },
+    "k0h22tsvnydg": {
+      "name": "Delayed credits on the Claude Platform",
+      "status": "monitoring",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/jg26d0skzh27",
+      "seenUpdateIds": [
+        "svgmzqzwyzxk",
+        "bp7mz04t4xb8"
+      ]
     }
   }
 }
