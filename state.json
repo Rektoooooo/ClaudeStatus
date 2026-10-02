@@ -544,7 +544,7 @@
     },
     "k0h22tsvnydg": {
       "name": "Delayed credits on the Claude Platform",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/jg26d0skzh27",
       "seenUpdateIds": [
