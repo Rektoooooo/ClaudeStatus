@@ -560,6 +560,15 @@
       "seenUpdateIds": [
         "psnbtphy46b0"
       ]
+    },
+    "978mjkgw6mh7": {
+      "name": "Elevated errors on platform.claude.com",
+      "status": "investigating",
+      "impact": "major",
+      "shortlink": "https://stspg.io/sjkw7njwf0mt",
+      "seenUpdateIds": [
+        "c56sq7q6flhm"
+      ]
     }
   }
 }
