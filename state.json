@@ -551,6 +551,15 @@
         "svgmzqzwyzxk",
         "bp7mz04t4xb8"
       ]
+    },
+    "wf2v8ms031sx": {
+      "name": "Elevated errors loading usage data on platform.claude.com",
+      "status": "investigating",
+      "impact": "major",
+      "shortlink": "https://stspg.io/scdhhnplc2jn",
+      "seenUpdateIds": [
+        "psnbtphy46b0"
+      ]
     }
   }
 }
