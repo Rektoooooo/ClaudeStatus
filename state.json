@@ -554,7 +554,7 @@
     },
     "wf2v8ms031sx": {
       "name": "Elevated errors loading usage data on platform.claude.com",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/scdhhnplc2jn",
       "seenUpdateIds": [
