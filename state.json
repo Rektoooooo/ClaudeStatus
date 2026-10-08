@@ -563,13 +563,14 @@
     },
     "978mjkgw6mh7": {
       "name": "Elevated errors on platform.claude.com",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "major",
       "shortlink": "https://stspg.io/sjkw7njwf0mt",
       "seenUpdateIds": [
         "c56sq7q6flhm",
         "l3390gw3zj8k",
-        "lkt8xyfbql3f"
+        "lkt8xyfbql3f",
+        "1nnyzdbn2qkg"
       ]
     }
   }
