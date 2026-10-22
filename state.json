@@ -572,6 +572,15 @@
         "lkt8xyfbql3f",
         "1nnyzdbn2qkg"
       ]
+    },
+    "wj6r4t6mxq1r": {
+      "name": "Elevated errors affecting Connectors",
+      "status": "investigating",
+      "impact": "minor",
+      "shortlink": "https://stspg.io/4dcr8c005yxc",
+      "seenUpdateIds": [
+        "5jth50rjvb91"
+      ]
     }
   }
 }
