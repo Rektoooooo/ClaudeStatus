@@ -575,7 +575,7 @@
     },
     "wj6r4t6mxq1r": {
       "name": "Elevated errors affecting Connectors",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/4dcr8c005yxc",
       "seenUpdateIds": [
