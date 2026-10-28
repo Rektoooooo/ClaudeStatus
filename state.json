@@ -584,7 +584,7 @@
     },
     "phg1y2yh07n2": {
       "name": "Elevated errors affecting the Google Calendar connector",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/75qq31h8672d",
       "seenUpdateIds": [
