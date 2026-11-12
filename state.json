@@ -591,6 +591,16 @@
         "cpvjb6396q8w",
         "gxyb09f375d4"
       ]
+    },
+    "sqn3fg1l96dl": {
+      "name": "Elevated errors affecting the Microsoft 365 connector",
+      "status": "identified",
+      "impact": "major",
+      "shortlink": "https://stspg.io/m0rbx38nmy1c",
+      "seenUpdateIds": [
+        "3175zg4x0lch",
+        "y9jr557n4093"
+      ]
     }
   }
 }
