@@ -604,6 +604,19 @@
         "11466g495qtb",
         "ztjnr8s5q82x"
       ]
+    },
+    "34wq7gxnxvvm": {
+      "name": "Elevated errors on claude.ai, the Claude API, and Claude Code",
+      "status": "monitoring",
+      "impact": "major",
+      "shortlink": "https://stspg.io/264r547qtkky",
+      "seenUpdateIds": [
+        "0yhr32xnhr2t",
+        "0ggxgd9jm4jt",
+        "23hjttljw844",
+        "qjgttkq5js1p",
+        "15pjb6vtp5kr"
+      ]
     }
   }
 }
