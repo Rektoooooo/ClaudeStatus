@@ -594,7 +594,7 @@
     },
     "sqn3fg1l96dl": {
       "name": "Elevated errors affecting the Microsoft 365 connector",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "major",
       "shortlink": "https://stspg.io/m0rbx38nmy1c",
       "seenUpdateIds": [
@@ -602,12 +602,13 @@
         "y9jr557n4093",
         "dz5mt91668p1",
         "11466g495qtb",
-        "ztjnr8s5q82x"
+        "ztjnr8s5q82x",
+        "g4pdrj0yk9g3"
       ]
     },
     "34wq7gxnxvvm": {
       "name": "Elevated errors on claude.ai, the Claude API, and Claude Code",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/264r547qtkky",
       "seenUpdateIds": [
