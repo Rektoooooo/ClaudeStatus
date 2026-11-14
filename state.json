@@ -594,7 +594,7 @@
     },
     "sqn3fg1l96dl": {
       "name": "Elevated errors affecting the Microsoft 365 connector",
-      "status": "monitoring",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/m0rbx38nmy1c",
       "seenUpdateIds": [
