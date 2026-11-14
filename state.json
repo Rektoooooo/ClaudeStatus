@@ -618,6 +618,15 @@
         "qjgttkq5js1p",
         "15pjb6vtp5kr"
       ]
+    },
+    "ct4c2pwf2xpj": {
+      "name": "Some users unable to sign up with Apple on the Claude iOS app",
+      "status": "investigating",
+      "impact": "major",
+      "shortlink": "https://stspg.io/4858wf40dx89",
+      "seenUpdateIds": [
+        "ywtdk17vlyf7"
+      ]
     }
   }
 }
