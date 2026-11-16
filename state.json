@@ -621,12 +621,24 @@
     },
     "ct4c2pwf2xpj": {
       "name": "Some users unable to sign up with Apple on the Claude iOS app",
-      "status": "investigating",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/4858wf40dx89",
       "seenUpdateIds": [
         "ywtdk17vlyf7",
         "w3f723prkh25"
+      ]
+    },
+    "b5cq662qf2wm": {
+      "name": "Claude unable to join meetings",
+      "status": "investigating",
+      "impact": "major",
+      "shortlink": "https://stspg.io/01qq3kzyyqzl",
+      "seenUpdateIds": [
+        "rq8n1dwxvw7k",
+        "xf4fg7rhhsbk",
+        "cknf7f0qymmq",
+        "177nx45nsdvg"
       ]
     }
   }
