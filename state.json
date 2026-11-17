@@ -641,6 +641,16 @@
         "177nx45nsdvg",
         "7njxwk3s0rln"
       ]
+    },
+    "1lglzf469c0z": {
+      "name": "Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
+      "status": "identified",
+      "impact": "major",
+      "shortlink": "https://stspg.io/3tl6h35nnzwm",
+      "seenUpdateIds": [
+        "2pk5xndqtq7j",
+        "d8n7jrm5db89"
+      ]
     }
   }
 }
