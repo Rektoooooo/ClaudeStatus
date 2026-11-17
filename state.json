@@ -631,14 +631,15 @@
     },
     "b5cq662qf2wm": {
       "name": "Claude unable to join meetings",
-      "status": "investigating",
+      "status": "identified",
       "impact": "major",
       "shortlink": "https://stspg.io/01qq3kzyyqzl",
       "seenUpdateIds": [
         "rq8n1dwxvw7k",
         "xf4fg7rhhsbk",
         "cknf7f0qymmq",
-        "177nx45nsdvg"
+        "177nx45nsdvg",
+        "7njxwk3s0rln"
       ]
     }
   }
