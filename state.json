@@ -632,19 +632,20 @@
     "b5cq662qf2wm": {
       "name": "Claude unable to join meetings",
       "status": "identified",
-      "impact": "major",
+      "impact": "minor",
       "shortlink": "https://stspg.io/01qq3kzyyqzl",
       "seenUpdateIds": [
         "rq8n1dwxvw7k",
         "xf4fg7rhhsbk",
         "cknf7f0qymmq",
         "177nx45nsdvg",
-        "7njxwk3s0rln"
+        "7njxwk3s0rln",
+        "qyyn9x1x5gpf"
       ]
     },
     "1lglzf469c0z": {
       "name": "Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
-      "status": "identified",
+      "status": "resolved",
       "impact": "major",
       "shortlink": "https://stspg.io/3tl6h35nnzwm",
       "seenUpdateIds": [
