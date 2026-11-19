@@ -631,7 +631,7 @@
     },
     "b5cq662qf2wm": {
       "name": "Claude unable to join meetings",
-      "status": "identified",
+      "status": "resolved",
       "impact": "minor",
       "shortlink": "https://stspg.io/01qq3kzyyqzl",
       "seenUpdateIds": [
