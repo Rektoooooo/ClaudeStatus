@@ -655,12 +655,13 @@
     },
     "3vbyqgnswwxq": {
       "name": "Claude for Microsoft 365 add-in missing for some users",
-      "status": "investigating",
-      "impact": "minor",
+      "status": "identified",
+      "impact": "major",
       "shortlink": "https://stspg.io/ffdq2qfv8frk",
       "seenUpdateIds": [
         "xptdjq6st8lw",
-        "6jcm0vn1pcw5"
+        "6jcm0vn1pcw5",
+        "nkf17x170x9n"
       ]
     }
   }
